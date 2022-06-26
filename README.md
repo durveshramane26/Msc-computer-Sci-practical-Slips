@@ -1,1 +1,1 @@
-# Msc-computer-Sci-practical-Slips
+# Msc-sem2-slips
